@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    color: black;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+}
+p{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
